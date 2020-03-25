@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-exercise",
+  "version": "1.0.0",
+  "description": "resolution of the exercise in base training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fperrens/nodejs-exercise.git"
+  },
+  "keywords": [
+    "nodejs",
+    "exersice",
+    "base",
+    "training"
+  ],
+  "author": "Facundo Perrens",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/fperrens/nodejs-exercise/issues"
+  },
+  "homepage": "https://github.com/fperrens/nodejs-exercise#readme"
+}
